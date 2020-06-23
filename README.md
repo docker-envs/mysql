@@ -1,2 +1,2 @@
-# mysql
-mysql的环境搭建
+##支持中文的mysql8.0
+###image: guossttxs/mysql8-cn
